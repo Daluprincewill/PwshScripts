@@ -1,0 +1,9 @@
+{
+"DomainName": "YourDomain.local",
+"NetBIOS": "YourDomain",
+"SafeModePassword": "YourP@55w0rd",
+"InstallDNS": true,
+"InstallDHCP": true,
+"InstallGPMC": true,
+"RebootAfter": true
+}
